@@ -2,9 +2,9 @@
 
 ## Preparation
 
-To start download MIND Small and MIND Large from <https://msnews.github.io/> into the data folder.
+To start download MIND Small and MIND Large from <https://msnews.github.io/> into the /data folder.
 
-## Dataset filtering and MIND-Busineess MIND-Rare generation
+## Dataset filtering and MIND-Business MIND-Rare generation
 
 Use mind_dataset_gen.ipynb and  mind_dataset_large_gen.ipynb
 
